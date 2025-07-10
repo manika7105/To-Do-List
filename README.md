@@ -4,7 +4,7 @@ A **To-Do List Application📝** helps users manage tasks efficiently. This comm
 
 ### 🛠️ Features:  
 
-✅ **Add a Task** – Add new tasks to the list. 
+✅ **Add a Task** – Add new tasks to the list.  
 ✅ **Show Tasks** – View all tasks with their completion status.  
 ✅ **Update a Task** – Modify an existing task.  
 ✅ **Delete a Task** – Remove a task from the list.  
